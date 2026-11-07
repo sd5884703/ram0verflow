@@ -17,24 +17,25 @@
 
 <!-- ROFL:BEGIN -->
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=1815"><img src="assets/ledger-light.svg?v=1815" width="100%" alt="ROFL ledger, height 1815"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/ledger-dark.svg?v=1816"><img src="assets/ledger-light.svg?v=1816" width="100%" alt="ROFL ledger, height 1816"></picture>
 
 | | |
 |---|---|
-| **height** | `1815` |
-| **tip** | `03c0a5da67219cf0debcf6036f767194848ac9b49dbd88f104ce3a22fa39d94e` |
+| **height** | `1816` |
+| **tip** | `503422e569d74df1f62f7865ba073a9eb9b920f46296121794d7835db41b0c75` |
 | **difficulty** | `1.0`  (bits `0x1e100000`) |
-| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,364,422,976,473,532` expected hashes |
-| **supply** | `20944.53125000 ROFL` in `1815` unspent outputs |
+| **chainwork** | `3,862,535,174,013,960,724,158,737,811,002,957,870,364,422,977,522,107` expected hashes |
+| **supply** | `20944.72656250 ROFL` in `1816` unspent outputs |
 | **next reward** | `0.19531250 ROFL` |
-| **next retarget** | in `8` block(s) |
-| **next halving** | in `74` block(s) |
-| **transactions** | `1817` |
+| **next retarget** | in `7` block(s) |
+| **next halving** | in `73` block(s) |
+| **transactions** | `1818` |
 
 ### Recent blocks
 
 | # | hash | miner | message | txs | reward | mined |
 |--:|---|---|---|--:|--:|---|
+| `1816` | `503422e569d74df1f62f…` | [@ram0verflow](https://github.com/ram0verflow) | `this embodiment creates the basic parameters of human existence` | `1` | `0.19531250` | 2026-11-07 12:39 UTC |
 | `1815` | `03c0a5da67219cf0debc…` | [@ram0verflow](https://github.com/ram0verflow) | `salable across conditions (maintains liquidity in crisis)` | `1` | `0.19531250` | 2026-11-07 05:55 UTC |
 | `1814` | `3cb2fbd659b5dd179c54…` | [@ram0verflow](https://github.com/ram0verflow) | `normal code can be changed; bitcoin&#x27;s core properties are immutable` | `1` | `0.19531250` | 2026-11-07 00:05 UTC |
 | `1813` | `ff9cd7c3924064178b5b…` | [@ram0verflow](https://github.com/ram0verflow) | `gravitational acceleration affects all masses equally` | `1` | `0.19531250` | 2026-11-06 20:02 UTC |
@@ -44,14 +45,13 @@
 | `1809` | `f64e1a67faacc382433c…` | [@ram0verflow](https://github.com/ram0verflow) | `changing history becomes exponentially harder over time` | `1` | `0.19531250` | 2026-11-05 18:53 UTC |
 | `1808` | `b42e308bb1a8c8466880…` | [@ram0verflow](https://github.com/ram0verflow) | `last receivers lose purchasing power` | `1` | `0.19531250` | 2026-11-05 11:13 UTC |
 | `1807` | `8cfff6e9da5d29573443…` | [@ram0verflow](https://github.com/ram0verflow) | `no industrial use cases to influence its value` | `1` | `0.19531250` | 2026-11-05 03:19 UTC |
-| `1806` | `9dedf000011fe7ab84f6…` | [@ram0verflow](https://github.com/ram0verflow) | `bitcoin achieves this through an unbreakable chain of mathematical proofs` | `1` | `0.19531250` | 2026-11-04 22:55 UTC |
 
 ### Miners
 
 | miner | blocks | share |
 |---|--:|--:|
 | [@ksanjeev284](https://github.com/ksanjeev284) | `488` | `26.9%` |
-| [@ram0verflow](https://github.com/ram0verflow) | `374` | `20.6%` |
+| [@ram0verflow](https://github.com/ram0verflow) | `375` | `20.6%` |
 | [@ywltby](https://github.com/ywltby) | `246` | `13.5%` |
 | [@americanvain](https://github.com/americanvain) | `157` | `8.6%` |
 | [@sd5884703](https://github.com/sd5884703) | `138` | `7.6%` |
@@ -70,7 +70,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 | holder | address | balance |
 |---|---|--:|
 | [@ksanjeev284](https://github.com/ksanjeev284) | `rofl1qn2wv00sq9a875c7pmqf4hfu2ca2y7fa0le96wk` | `15112.50000000 ROFL` |
-| _unclaimed_ | `rofl1qhkhmy848s09y2jyly8jexk4gd3gnrrclxj2exx` | `2157.81250000 ROFL` |
+| _unclaimed_ | `rofl1qhkhmy848s09y2jyly8jexk4gd3gnrrclxj2exx` | `2158.00781250 ROFL` |
 | _unclaimed_ | `rofl1qrrj2pn86jy9ylnatdwuqfazq0ur5pv7xq9lja3` | `649.21875000 ROFL` |
 | [@eltociear](https://github.com/eltociear) | `rofl1qdsfz9v9r2hc798k26egt33zxj8ysg4cgwgcw2z` | `612.50000000 ROFL` |
 | [@uselessfree](https://github.com/uselessfree) | `rofl1qm3zqhkwlh85xsaktutuculxhcqnd8vwnj6rt3z` | `589.84375000 ROFL` |
@@ -99,7 +99,7 @@ _Find your own name here once you have run `python3 wallet.py identity`._
 |--:|---|---|--:|---|
 | `11` | `rofl1qhkhmy848s0…` | `rofl1q3jwm3gz2s9…` | `100.00000000` | gm @notram0verflow |
 
-<sub>Rendered from `chain/blocks.jsonl` at height 1815. Verify it yourself: <code>python3 verify.py</code></sub>
+<sub>Rendered from `chain/blocks.jsonl` at height 1816. Verify it yourself: <code>python3 verify.py</code></sub>
 
 <!-- ROFL:END -->
 
